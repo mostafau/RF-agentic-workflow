@@ -17,7 +17,7 @@ docker exec -it oscar-ai bash
 
 This program use multi-stage Agentic workflow:
 
-see WORKFLOW.md(ems_langgraph/WORKFLOW.md) file for understanding the details workflow of this program.
+see [WORKFLOW.md](ems_langgraph/WORKFLOW.md) file for understanding the details workflow of this program.
 
 >cd ems_langgraph/
 
